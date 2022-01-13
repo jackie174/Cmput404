@@ -1,3 +1,9 @@
+
+"""Cite:
+Url: https://towardsdatascience.com/how-to-download-files-using-python-ffbca63beb5c
+Author: Aaron S
+Date: Feb 5, 2020
+"""
 import requests
 
 
